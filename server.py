@@ -27,6 +27,7 @@ from video import DEFAULT_THRESHOLD, VideoError, extract_frames, inspect_video, 
 
 ROOT = Path(__file__).resolve().parent
 WEB = ROOT / "web"
+BUNDLED_EXAMPLE = ROOT / "examples" / "paperman"
 DATA = ROOT / ".shotline"
 RESULTS = DATA / "results"
 WORK = DATA / "work"
@@ -219,7 +220,11 @@ class ShotlineServer(ThreadingHTTPServer):
             self.enqueue("default", Path(mkdtemp(dir=self.work)), "youtube", DEFAULT_VIDEO, DEFAULT_THRESHOLD)
 
     def result_path(self, job):
-        return (RESULTS if job == "default" else self.results) / job
+        if job != "default":
+            return self.results / job
+        if (BUNDLED_EXAMPLE / "manifest.json").is_file():
+            return BUNDLED_EXAMPLE
+        return RESULTS / "default"
 
     def expired(self, job):
         if not self.limits or job == "default":
@@ -394,7 +399,7 @@ def load_access_code():
 def main():
     parser = ArgumentParser(description=__doc__)
     parser.add_argument("--port", type=int, default=8765)
-    parser.add_argument("--paperman", action="store_true", help="Download and cache the Paperman sample")
+    parser.add_argument("--paperman", action="store_true", help="Download and cache Paperman if the bundled example is missing")
     parser.add_argument("--public-origin", help="HTTPS origin served by the local reverse proxy")
     args = parser.parse_args()
     access_code = None

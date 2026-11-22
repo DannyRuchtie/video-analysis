@@ -1,0 +1,2221 @@
+{
+  "title": "Paperman",
+  "source": "youtube",
+  "url": "https://www.youtube.com/watch?v=XrqSF2OOz_M",
+  "threshold": 10.0,
+  "duration": 379.466667,
+  "shots": [
+    {
+      "number": 1,
+      "start": 0.0,
+      "end": 26.783333,
+      "screenshot_time": 13.383333,
+      "image": "shot-000001.jpg",
+      "thumbnail": "thumbs/shot-000001.jpg",
+      "color": "#83837F",
+      "rgb": [
+        131,
+        131,
+        127
+      ]
+    },
+    {
+      "number": 2,
+      "start": 26.783333,
+      "end": 28.033333,
+      "screenshot_time": 27.4,
+      "image": "shot-000002.jpg",
+      "thumbnail": "thumbs/shot-000002.jpg",
+      "color": "#7E7E7A",
+      "rgb": [
+        126,
+        126,
+        122
+      ]
+    },
+    {
+      "number": 3,
+      "start": 28.033333,
+      "end": 32.15,
+      "screenshot_time": 30.083333,
+      "image": "shot-000003.jpg",
+      "thumbnail": "thumbs/shot-000003.jpg",
+      "color": "#5B5B57",
+      "rgb": [
+        91,
+        91,
+        87
+      ]
+    },
+    {
+      "number": 4,
+      "start": 32.15,
+      "end": 34.116667,
+      "screenshot_time": 33.133333,
+      "image": "shot-000004.jpg",
+      "thumbnail": "thumbs/shot-000004.jpg",
+      "color": "#898985",
+      "rgb": [
+        137,
+        137,
+        133
+      ]
+    },
+    {
+      "number": 5,
+      "start": 34.116667,
+      "end": 36.616667,
+      "screenshot_time": 35.366667,
+      "image": "shot-000005.jpg",
+      "thumbnail": "thumbs/shot-000005.jpg",
+      "color": "#5A5A56",
+      "rgb": [
+        90,
+        90,
+        86
+      ]
+    },
+    {
+      "number": 6,
+      "start": 36.616667,
+      "end": 41.566667,
+      "screenshot_time": 39.1,
+      "image": "shot-000006.jpg",
+      "thumbnail": "thumbs/shot-000006.jpg",
+      "color": "#80807C",
+      "rgb": [
+        128,
+        128,
+        124
+      ]
+    },
+    {
+      "number": 7,
+      "start": 41.566667,
+      "end": 45.566667,
+      "screenshot_time": 43.566667,
+      "image": "shot-000007.jpg",
+      "thumbnail": "thumbs/shot-000007.jpg",
+      "color": "#52534E",
+      "rgb": [
+        82,
+        83,
+        78
+      ]
+    },
+    {
+      "number": 8,
+      "start": 45.566667,
+      "end": 48.066667,
+      "screenshot_time": 46.816667,
+      "image": "shot-000008.jpg",
+      "thumbnail": "thumbs/shot-000008.jpg",
+      "color": "#8A8A86",
+      "rgb": [
+        138,
+        138,
+        134
+      ]
+    },
+    {
+      "number": 9,
+      "start": 48.066667,
+      "end": 51.15,
+      "screenshot_time": 49.6,
+      "image": "shot-000009.jpg",
+      "thumbnail": "thumbs/shot-000009.jpg",
+      "color": "#434440",
+      "rgb": [
+        67,
+        68,
+        64
+      ]
+    },
+    {
+      "number": 10,
+      "start": 51.15,
+      "end": 52.816667,
+      "screenshot_time": 51.983333,
+      "image": "shot-000010.jpg",
+      "thumbnail": "thumbs/shot-000010.jpg",
+      "color": "#848480",
+      "rgb": [
+        132,
+        132,
+        128
+      ]
+    },
+    {
+      "number": 11,
+      "start": 52.816667,
+      "end": 54.816667,
+      "screenshot_time": 53.816667,
+      "image": "shot-000011.jpg",
+      "thumbnail": "thumbs/shot-000011.jpg",
+      "color": "#262623",
+      "rgb": [
+        38,
+        38,
+        35
+      ]
+    },
+    {
+      "number": 12,
+      "start": 54.816667,
+      "end": 59.066667,
+      "screenshot_time": 56.95,
+      "image": "shot-000012.jpg",
+      "thumbnail": "thumbs/shot-000012.jpg",
+      "color": "#898985",
+      "rgb": [
+        137,
+        137,
+        133
+      ]
+    },
+    {
+      "number": 13,
+      "start": 59.066667,
+      "end": 61.233333,
+      "screenshot_time": 60.15,
+      "image": "shot-000013.jpg",
+      "thumbnail": "thumbs/shot-000013.jpg",
+      "color": "#7B7C77",
+      "rgb": [
+        123,
+        124,
+        119
+      ]
+    },
+    {
+      "number": 14,
+      "start": 61.233333,
+      "end": 63.016667,
+      "screenshot_time": 62.116667,
+      "image": "shot-000014.jpg",
+      "thumbnail": "thumbs/shot-000014.jpg",
+      "color": "#80807C",
+      "rgb": [
+        128,
+        128,
+        124
+      ]
+    },
+    {
+      "number": 15,
+      "start": 63.016667,
+      "end": 64.566667,
+      "screenshot_time": 63.8,
+      "image": "shot-000015.jpg",
+      "thumbnail": "thumbs/shot-000015.jpg",
+      "color": "#3B3B38",
+      "rgb": [
+        59,
+        59,
+        56
+      ]
+    },
+    {
+      "number": 16,
+      "start": 64.566667,
+      "end": 66.816667,
+      "screenshot_time": 65.7,
+      "image": "shot-000016.jpg",
+      "thumbnail": "thumbs/shot-000016.jpg",
+      "color": "#40413D",
+      "rgb": [
+        64,
+        65,
+        61
+      ]
+    },
+    {
+      "number": 17,
+      "start": 66.816667,
+      "end": 70.066667,
+      "screenshot_time": 68.45,
+      "image": "shot-000017.jpg",
+      "thumbnail": "thumbs/shot-000017.jpg",
+      "color": "#787874",
+      "rgb": [
+        120,
+        120,
+        116
+      ]
+    },
+    {
+      "number": 18,
+      "start": 70.066667,
+      "end": 71.6,
+      "screenshot_time": 70.833333,
+      "image": "shot-000018.jpg",
+      "thumbnail": "thumbs/shot-000018.jpg",
+      "color": "#5E5F5A",
+      "rgb": [
+        94,
+        95,
+        90
+      ]
+    },
+    {
+      "number": 19,
+      "start": 71.6,
+      "end": 75.6,
+      "screenshot_time": 73.6,
+      "image": "shot-000019.jpg",
+      "thumbnail": "thumbs/shot-000019.jpg",
+      "color": "#61615C",
+      "rgb": [
+        97,
+        97,
+        92
+      ]
+    },
+    {
+      "number": 20,
+      "start": 75.6,
+      "end": 77.483333,
+      "screenshot_time": 76.533333,
+      "image": "shot-000020.jpg",
+      "thumbnail": "thumbs/shot-000020.jpg",
+      "color": "#7B7B77",
+      "rgb": [
+        123,
+        123,
+        119
+      ]
+    },
+    {
+      "number": 21,
+      "start": 77.483333,
+      "end": 78.766667,
+      "screenshot_time": 78.116667,
+      "image": "shot-000021.jpg",
+      "thumbnail": "thumbs/shot-000021.jpg",
+      "color": "#6F706B",
+      "rgb": [
+        111,
+        112,
+        107
+      ]
+    },
+    {
+      "number": 22,
+      "start": 78.766667,
+      "end": 81.4,
+      "screenshot_time": 80.083333,
+      "image": "shot-000022.jpg",
+      "thumbnail": "thumbs/shot-000022.jpg",
+      "color": "#9A9B96",
+      "rgb": [
+        154,
+        155,
+        150
+      ]
+    },
+    {
+      "number": 23,
+      "start": 81.4,
+      "end": 83.65,
+      "screenshot_time": 82.533333,
+      "image": "shot-000023.jpg",
+      "thumbnail": "thumbs/shot-000023.jpg",
+      "color": "#686863",
+      "rgb": [
+        104,
+        104,
+        99
+      ]
+    },
+    {
+      "number": 24,
+      "start": 83.65,
+      "end": 86.4,
+      "screenshot_time": 85.033333,
+      "image": "shot-000024.jpg",
+      "thumbnail": "thumbs/shot-000024.jpg",
+      "color": "#666762",
+      "rgb": [
+        102,
+        103,
+        98
+      ]
+    },
+    {
+      "number": 25,
+      "start": 86.4,
+      "end": 88.316667,
+      "screenshot_time": 87.35,
+      "image": "shot-000025.jpg",
+      "thumbnail": "thumbs/shot-000025.jpg",
+      "color": "#5F605C",
+      "rgb": [
+        95,
+        96,
+        92
+      ]
+    },
+    {
+      "number": 26,
+      "start": 88.316667,
+      "end": 90.1,
+      "screenshot_time": 89.2,
+      "image": "shot-000026.jpg",
+      "thumbnail": "thumbs/shot-000026.jpg",
+      "color": "#63645F",
+      "rgb": [
+        99,
+        100,
+        95
+      ]
+    },
+    {
+      "number": 27,
+      "start": 90.1,
+      "end": 96.6,
+      "screenshot_time": 93.35,
+      "image": "shot-000027.jpg",
+      "thumbnail": "thumbs/shot-000027.jpg",
+      "color": "#6A6B67",
+      "rgb": [
+        106,
+        107,
+        103
+      ]
+    },
+    {
+      "number": 28,
+      "start": 96.6,
+      "end": 97.1,
+      "screenshot_time": 96.85,
+      "image": "shot-000028.jpg",
+      "thumbnail": "thumbs/shot-000028.jpg",
+      "color": "#9FA09B",
+      "rgb": [
+        159,
+        160,
+        155
+      ]
+    },
+    {
+      "number": 29,
+      "start": 97.1,
+      "end": 97.9,
+      "screenshot_time": 97.5,
+      "image": "shot-000029.jpg",
+      "thumbnail": "thumbs/shot-000029.jpg",
+      "color": "#878883",
+      "rgb": [
+        135,
+        136,
+        131
+      ]
+    },
+    {
+      "number": 30,
+      "start": 97.9,
+      "end": 99.683333,
+      "screenshot_time": 98.8,
+      "image": "shot-000030.jpg",
+      "thumbnail": "thumbs/shot-000030.jpg",
+      "color": "#80817C",
+      "rgb": [
+        128,
+        129,
+        124
+      ]
+    },
+    {
+      "number": 31,
+      "start": 99.683333,
+      "end": 102.15,
+      "screenshot_time": 100.916667,
+      "image": "shot-000031.jpg",
+      "thumbnail": "thumbs/shot-000031.jpg",
+      "color": "#959591",
+      "rgb": [
+        149,
+        149,
+        145
+      ]
+    },
+    {
+      "number": 32,
+      "start": 102.15,
+      "end": 104.183333,
+      "screenshot_time": 103.166667,
+      "image": "shot-000032.jpg",
+      "thumbnail": "thumbs/shot-000032.jpg",
+      "color": "#888884",
+      "rgb": [
+        136,
+        136,
+        132
+      ]
+    },
+    {
+      "number": 33,
+      "start": 104.183333,
+      "end": 106.233333,
+      "screenshot_time": 105.2,
+      "image": "shot-000033.jpg",
+      "thumbnail": "thumbs/shot-000033.jpg",
+      "color": "#6D6E6A",
+      "rgb": [
+        109,
+        110,
+        106
+      ]
+    },
+    {
+      "number": 34,
+      "start": 106.233333,
+      "end": 108.566667,
+      "screenshot_time": 107.4,
+      "image": "shot-000034.jpg",
+      "thumbnail": "thumbs/shot-000034.jpg",
+      "color": "#5F5F5B",
+      "rgb": [
+        95,
+        95,
+        91
+      ]
+    },
+    {
+      "number": 35,
+      "start": 108.566667,
+      "end": 109.683333,
+      "screenshot_time": 109.116667,
+      "image": "shot-000035.jpg",
+      "thumbnail": "thumbs/shot-000035.jpg",
+      "color": "#565652",
+      "rgb": [
+        86,
+        86,
+        82
+      ]
+    },
+    {
+      "number": 36,
+      "start": 109.683333,
+      "end": 110.483333,
+      "screenshot_time": 110.083333,
+      "image": "shot-000036.jpg",
+      "thumbnail": "thumbs/shot-000036.jpg",
+      "color": "#9D9E99",
+      "rgb": [
+        157,
+        158,
+        153
+      ]
+    },
+    {
+      "number": 37,
+      "start": 110.483333,
+      "end": 112.033333,
+      "screenshot_time": 111.25,
+      "image": "shot-000037.jpg",
+      "thumbnail": "thumbs/shot-000037.jpg",
+      "color": "#91928D",
+      "rgb": [
+        145,
+        146,
+        141
+      ]
+    },
+    {
+      "number": 38,
+      "start": 112.033333,
+      "end": 116.083333,
+      "screenshot_time": 114.05,
+      "image": "shot-000038.jpg",
+      "thumbnail": "thumbs/shot-000038.jpg",
+      "color": "#82827D",
+      "rgb": [
+        130,
+        130,
+        125
+      ]
+    },
+    {
+      "number": 39,
+      "start": 116.083333,
+      "end": 117.666667,
+      "screenshot_time": 116.866667,
+      "image": "shot-000039.jpg",
+      "thumbnail": "thumbs/shot-000039.jpg",
+      "color": "#898985",
+      "rgb": [
+        137,
+        137,
+        133
+      ]
+    },
+    {
+      "number": 40,
+      "start": 117.666667,
+      "end": 119.033333,
+      "screenshot_time": 118.35,
+      "image": "shot-000040.jpg",
+      "thumbnail": "thumbs/shot-000040.jpg",
+      "color": "#5C5C58",
+      "rgb": [
+        92,
+        92,
+        88
+      ]
+    },
+    {
+      "number": 41,
+      "start": 119.033333,
+      "end": 119.45,
+      "screenshot_time": 119.25,
+      "image": "shot-000041.jpg",
+      "thumbnail": "thumbs/shot-000041.jpg",
+      "color": "#8A8A86",
+      "rgb": [
+        138,
+        138,
+        134
+      ]
+    },
+    {
+      "number": 42,
+      "start": 119.45,
+      "end": 120.333333,
+      "screenshot_time": 119.883333,
+      "image": "shot-000042.jpg",
+      "thumbnail": "thumbs/shot-000042.jpg",
+      "color": "#989893",
+      "rgb": [
+        152,
+        152,
+        147
+      ]
+    },
+    {
+      "number": 43,
+      "start": 120.333333,
+      "end": 124.833333,
+      "screenshot_time": 122.583333,
+      "image": "shot-000043.jpg",
+      "thumbnail": "thumbs/shot-000043.jpg",
+      "color": "#585955",
+      "rgb": [
+        88,
+        89,
+        85
+      ]
+    },
+    {
+      "number": 44,
+      "start": 124.833333,
+      "end": 127.45,
+      "screenshot_time": 126.133333,
+      "image": "shot-000044.jpg",
+      "thumbnail": "thumbs/shot-000044.jpg",
+      "color": "#7A7B76",
+      "rgb": [
+        122,
+        123,
+        118
+      ]
+    },
+    {
+      "number": 45,
+      "start": 127.45,
+      "end": 128.866667,
+      "screenshot_time": 128.15,
+      "image": "shot-000045.jpg",
+      "thumbnail": "thumbs/shot-000045.jpg",
+      "color": "#858681",
+      "rgb": [
+        133,
+        134,
+        129
+      ]
+    },
+    {
+      "number": 46,
+      "start": 128.866667,
+      "end": 130.666667,
+      "screenshot_time": 129.766667,
+      "image": "shot-000046.jpg",
+      "thumbnail": "thumbs/shot-000046.jpg",
+      "color": "#6D6E69",
+      "rgb": [
+        109,
+        110,
+        105
+      ]
+    },
+    {
+      "number": 47,
+      "start": 130.666667,
+      "end": 132.833333,
+      "screenshot_time": 131.75,
+      "image": "shot-000047.jpg",
+      "thumbnail": "thumbs/shot-000047.jpg",
+      "color": "#ABABA6",
+      "rgb": [
+        171,
+        171,
+        166
+      ]
+    },
+    {
+      "number": 48,
+      "start": 132.833333,
+      "end": 136.166667,
+      "screenshot_time": 134.5,
+      "image": "shot-000048.jpg",
+      "thumbnail": "thumbs/shot-000048.jpg",
+      "color": "#64645F",
+      "rgb": [
+        100,
+        100,
+        95
+      ]
+    },
+    {
+      "number": 49,
+      "start": 136.166667,
+      "end": 137.416667,
+      "screenshot_time": 136.8,
+      "image": "shot-000049.jpg",
+      "thumbnail": "thumbs/shot-000049.jpg",
+      "color": "#5F605B",
+      "rgb": [
+        95,
+        96,
+        91
+      ]
+    },
+    {
+      "number": 50,
+      "start": 137.416667,
+      "end": 138.75,
+      "screenshot_time": 138.083333,
+      "image": "shot-000050.jpg",
+      "thumbnail": "thumbs/shot-000050.jpg",
+      "color": "#62635E",
+      "rgb": [
+        98,
+        99,
+        94
+      ]
+    },
+    {
+      "number": 51,
+      "start": 138.75,
+      "end": 139.783333,
+      "screenshot_time": 139.266667,
+      "image": "shot-000051.jpg",
+      "thumbnail": "thumbs/shot-000051.jpg",
+      "color": "#646460",
+      "rgb": [
+        100,
+        100,
+        96
+      ]
+    },
+    {
+      "number": 52,
+      "start": 139.783333,
+      "end": 141.666667,
+      "screenshot_time": 140.716667,
+      "image": "shot-000052.jpg",
+      "thumbnail": "thumbs/shot-000052.jpg",
+      "color": "#989894",
+      "rgb": [
+        152,
+        152,
+        148
+      ]
+    },
+    {
+      "number": 53,
+      "start": 141.666667,
+      "end": 143.0,
+      "screenshot_time": 142.333333,
+      "image": "shot-000053.jpg",
+      "thumbnail": "thumbs/shot-000053.jpg",
+      "color": "#5A5B56",
+      "rgb": [
+        90,
+        91,
+        86
+      ]
+    },
+    {
+      "number": 54,
+      "start": 143.0,
+      "end": 143.666667,
+      "screenshot_time": 143.333333,
+      "image": "shot-000054.jpg",
+      "thumbnail": "thumbs/shot-000054.jpg",
+      "color": "#868782",
+      "rgb": [
+        134,
+        135,
+        130
+      ]
+    },
+    {
+      "number": 55,
+      "start": 143.666667,
+      "end": 144.333333,
+      "screenshot_time": 144.0,
+      "image": "shot-000055.jpg",
+      "thumbnail": "thumbs/shot-000055.jpg",
+      "color": "#AEAEAA",
+      "rgb": [
+        174,
+        174,
+        170
+      ]
+    },
+    {
+      "number": 56,
+      "start": 144.333333,
+      "end": 146.083333,
+      "screenshot_time": 145.2,
+      "image": "shot-000056.jpg",
+      "thumbnail": "thumbs/shot-000056.jpg",
+      "color": "#A6A7A2",
+      "rgb": [
+        166,
+        167,
+        162
+      ]
+    },
+    {
+      "number": 57,
+      "start": 146.083333,
+      "end": 147.45,
+      "screenshot_time": 146.766667,
+      "image": "shot-000057.jpg",
+      "thumbnail": "thumbs/shot-000057.jpg",
+      "color": "#979893",
+      "rgb": [
+        151,
+        152,
+        147
+      ]
+    },
+    {
+      "number": 58,
+      "start": 147.45,
+      "end": 148.583333,
+      "screenshot_time": 148.016667,
+      "image": "shot-000058.jpg",
+      "thumbnail": "thumbs/shot-000058.jpg",
+      "color": "#B6B6B2",
+      "rgb": [
+        182,
+        182,
+        178
+      ]
+    },
+    {
+      "number": 59,
+      "start": 148.583333,
+      "end": 149.616667,
+      "screenshot_time": 149.1,
+      "image": "shot-000059.jpg",
+      "thumbnail": "thumbs/shot-000059.jpg",
+      "color": "#575853",
+      "rgb": [
+        87,
+        88,
+        83
+      ]
+    },
+    {
+      "number": 60,
+      "start": 149.616667,
+      "end": 150.916667,
+      "screenshot_time": 150.266667,
+      "image": "shot-000060.jpg",
+      "thumbnail": "thumbs/shot-000060.jpg",
+      "color": "#797A75",
+      "rgb": [
+        121,
+        122,
+        117
+      ]
+    },
+    {
+      "number": 61,
+      "start": 150.916667,
+      "end": 152.333333,
+      "screenshot_time": 151.616667,
+      "image": "shot-000061.jpg",
+      "thumbnail": "thumbs/shot-000061.jpg",
+      "color": "#3C3C39",
+      "rgb": [
+        60,
+        60,
+        57
+      ]
+    },
+    {
+      "number": 62,
+      "start": 152.333333,
+      "end": 153.616667,
+      "screenshot_time": 152.983333,
+      "image": "shot-000062.jpg",
+      "thumbnail": "thumbs/shot-000062.jpg",
+      "color": "#5F5F5B",
+      "rgb": [
+        95,
+        95,
+        91
+      ]
+    },
+    {
+      "number": 63,
+      "start": 153.616667,
+      "end": 154.2,
+      "screenshot_time": 153.9,
+      "image": "shot-000063.jpg",
+      "thumbnail": "thumbs/shot-000063.jpg",
+      "color": "#90918C",
+      "rgb": [
+        144,
+        145,
+        140
+      ]
+    },
+    {
+      "number": 64,
+      "start": 154.2,
+      "end": 154.833333,
+      "screenshot_time": 154.516667,
+      "image": "shot-000064.jpg",
+      "thumbnail": "thumbs/shot-000064.jpg",
+      "color": "#6C6D68",
+      "rgb": [
+        108,
+        109,
+        104
+      ]
+    },
+    {
+      "number": 65,
+      "start": 154.833333,
+      "end": 155.416667,
+      "screenshot_time": 155.116667,
+      "image": "shot-000065.jpg",
+      "thumbnail": "thumbs/shot-000065.jpg",
+      "color": "#A3A39E",
+      "rgb": [
+        163,
+        163,
+        158
+      ]
+    },
+    {
+      "number": 66,
+      "start": 155.416667,
+      "end": 156.033333,
+      "screenshot_time": 155.716667,
+      "image": "shot-000066.jpg",
+      "thumbnail": "thumbs/shot-000066.jpg",
+      "color": "#7E7E7A",
+      "rgb": [
+        126,
+        126,
+        122
+      ]
+    },
+    {
+      "number": 67,
+      "start": 156.033333,
+      "end": 156.616667,
+      "screenshot_time": 156.316667,
+      "image": "shot-000067.jpg",
+      "thumbnail": "thumbs/shot-000067.jpg",
+      "color": "#A8A9A4",
+      "rgb": [
+        168,
+        169,
+        164
+      ]
+    },
+    {
+      "number": 68,
+      "start": 156.616667,
+      "end": 157.25,
+      "screenshot_time": 156.933333,
+      "image": "shot-000068.jpg",
+      "thumbnail": "thumbs/shot-000068.jpg",
+      "color": "#A2A39E",
+      "rgb": [
+        162,
+        163,
+        158
+      ]
+    },
+    {
+      "number": 69,
+      "start": 157.25,
+      "end": 157.5,
+      "screenshot_time": 157.366667,
+      "image": "shot-000069.jpg",
+      "thumbnail": "thumbs/shot-000069.jpg",
+      "color": "#9D9E99",
+      "rgb": [
+        157,
+        158,
+        153
+      ]
+    },
+    {
+      "number": 70,
+      "start": 157.5,
+      "end": 158.283333,
+      "screenshot_time": 157.883333,
+      "image": "shot-000070.jpg",
+      "thumbnail": "thumbs/shot-000070.jpg",
+      "color": "#31322E",
+      "rgb": [
+        49,
+        50,
+        46
+      ]
+    },
+    {
+      "number": 71,
+      "start": 158.283333,
+      "end": 160.25,
+      "screenshot_time": 159.266667,
+      "image": "shot-000071.jpg",
+      "thumbnail": "thumbs/shot-000071.jpg",
+      "color": "#92928E",
+      "rgb": [
+        146,
+        146,
+        142
+      ]
+    },
+    {
+      "number": 72,
+      "start": 160.25,
+      "end": 161.75,
+      "screenshot_time": 161.0,
+      "image": "shot-000072.jpg",
+      "thumbnail": "thumbs/shot-000072.jpg",
+      "color": "#63635E",
+      "rgb": [
+        99,
+        99,
+        94
+      ]
+    },
+    {
+      "number": 73,
+      "start": 161.75,
+      "end": 164.0,
+      "screenshot_time": 162.866667,
+      "image": "shot-000073.jpg",
+      "thumbnail": "thumbs/shot-000073.jpg",
+      "color": "#5F605B",
+      "rgb": [
+        95,
+        96,
+        91
+      ]
+    },
+    {
+      "number": 74,
+      "start": 164.0,
+      "end": 165.616667,
+      "screenshot_time": 164.8,
+      "image": "shot-000074.jpg",
+      "thumbnail": "thumbs/shot-000074.jpg",
+      "color": "#92938E",
+      "rgb": [
+        146,
+        147,
+        142
+      ]
+    },
+    {
+      "number": 75,
+      "start": 165.616667,
+      "end": 167.5,
+      "screenshot_time": 166.55,
+      "image": "shot-000075.jpg",
+      "thumbnail": "thumbs/shot-000075.jpg",
+      "color": "#C6C7C2",
+      "rgb": [
+        198,
+        199,
+        194
+      ]
+    },
+    {
+      "number": 76,
+      "start": 167.5,
+      "end": 169.616667,
+      "screenshot_time": 168.55,
+      "image": "shot-000076.jpg",
+      "thumbnail": "thumbs/shot-000076.jpg",
+      "color": "#82827D",
+      "rgb": [
+        130,
+        130,
+        125
+      ]
+    },
+    {
+      "number": 77,
+      "start": 169.616667,
+      "end": 170.833333,
+      "screenshot_time": 170.233333,
+      "image": "shot-000077.jpg",
+      "thumbnail": "thumbs/shot-000077.jpg",
+      "color": "#9A9A97",
+      "rgb": [
+        154,
+        154,
+        151
+      ]
+    },
+    {
+      "number": 78,
+      "start": 170.833333,
+      "end": 172.25,
+      "screenshot_time": 171.55,
+      "image": "shot-000078.jpg",
+      "thumbnail": "thumbs/shot-000078.jpg",
+      "color": "#767672",
+      "rgb": [
+        118,
+        118,
+        114
+      ]
+    },
+    {
+      "number": 79,
+      "start": 172.25,
+      "end": 172.7,
+      "screenshot_time": 172.466667,
+      "image": "shot-000079.jpg",
+      "thumbnail": "thumbs/shot-000079.jpg",
+      "color": "#91918C",
+      "rgb": [
+        145,
+        145,
+        140
+      ]
+    },
+    {
+      "number": 80,
+      "start": 172.7,
+      "end": 173.166667,
+      "screenshot_time": 172.933333,
+      "image": "shot-000080.jpg",
+      "thumbnail": "thumbs/shot-000080.jpg",
+      "color": "#989894",
+      "rgb": [
+        152,
+        152,
+        148
+      ]
+    },
+    {
+      "number": 81,
+      "start": 173.166667,
+      "end": 173.616667,
+      "screenshot_time": 173.4,
+      "image": "shot-000081.jpg",
+      "thumbnail": "thumbs/shot-000081.jpg",
+      "color": "#BBBBB7",
+      "rgb": [
+        187,
+        187,
+        183
+      ]
+    },
+    {
+      "number": 82,
+      "start": 173.616667,
+      "end": 174.116667,
+      "screenshot_time": 173.866667,
+      "image": "shot-000082.jpg",
+      "thumbnail": "thumbs/shot-000082.jpg",
+      "color": "#C7C8C3",
+      "rgb": [
+        199,
+        200,
+        195
+      ]
+    },
+    {
+      "number": 83,
+      "start": 174.116667,
+      "end": 177.5,
+      "screenshot_time": 175.8,
+      "image": "shot-000083.jpg",
+      "thumbnail": "thumbs/shot-000083.jpg",
+      "color": "#5C5C58",
+      "rgb": [
+        92,
+        92,
+        88
+      ]
+    },
+    {
+      "number": 84,
+      "start": 177.5,
+      "end": 179.166667,
+      "screenshot_time": 178.333333,
+      "image": "shot-000084.jpg",
+      "thumbnail": "thumbs/shot-000084.jpg",
+      "color": "#999995",
+      "rgb": [
+        153,
+        153,
+        149
+      ]
+    },
+    {
+      "number": 85,
+      "start": 179.166667,
+      "end": 182.366667,
+      "screenshot_time": 180.766667,
+      "image": "shot-000085.jpg",
+      "thumbnail": "thumbs/shot-000085.jpg",
+      "color": "#C1C1BC",
+      "rgb": [
+        193,
+        193,
+        188
+      ]
+    },
+    {
+      "number": 86,
+      "start": 182.366667,
+      "end": 183.733333,
+      "screenshot_time": 183.05,
+      "image": "shot-000086.jpg",
+      "thumbnail": "thumbs/shot-000086.jpg",
+      "color": "#5B5B56",
+      "rgb": [
+        91,
+        91,
+        86
+      ]
+    },
+    {
+      "number": 87,
+      "start": 183.733333,
+      "end": 186.116667,
+      "screenshot_time": 184.933333,
+      "image": "shot-000087.jpg",
+      "thumbnail": "thumbs/shot-000087.jpg",
+      "color": "#555551",
+      "rgb": [
+        85,
+        85,
+        81
+      ]
+    },
+    {
+      "number": 88,
+      "start": 186.116667,
+      "end": 187.116667,
+      "screenshot_time": 186.616667,
+      "image": "shot-000088.jpg",
+      "thumbnail": "thumbs/shot-000088.jpg",
+      "color": "#595A55",
+      "rgb": [
+        89,
+        90,
+        85
+      ]
+    },
+    {
+      "number": 89,
+      "start": 187.116667,
+      "end": 189.533333,
+      "screenshot_time": 188.316667,
+      "image": "shot-000089.jpg",
+      "thumbnail": "thumbs/shot-000089.jpg",
+      "color": "#7F7F7B",
+      "rgb": [
+        127,
+        127,
+        123
+      ]
+    },
+    {
+      "number": 90,
+      "start": 189.533333,
+      "end": 190.15,
+      "screenshot_time": 189.833333,
+      "image": "shot-000090.jpg",
+      "thumbnail": "thumbs/shot-000090.jpg",
+      "color": "#575853",
+      "rgb": [
+        87,
+        88,
+        83
+      ]
+    },
+    {
+      "number": 91,
+      "start": 190.15,
+      "end": 191.116667,
+      "screenshot_time": 190.633333,
+      "image": "shot-000091.jpg",
+      "thumbnail": "thumbs/shot-000091.jpg",
+      "color": "#7D7E7A",
+      "rgb": [
+        125,
+        126,
+        122
+      ]
+    },
+    {
+      "number": 92,
+      "start": 191.116667,
+      "end": 192.45,
+      "screenshot_time": 191.783333,
+      "image": "shot-000092.jpg",
+      "thumbnail": "thumbs/shot-000092.jpg",
+      "color": "#8B8B87",
+      "rgb": [
+        139,
+        139,
+        135
+      ]
+    },
+    {
+      "number": 93,
+      "start": 192.45,
+      "end": 194.983333,
+      "screenshot_time": 193.716667,
+      "image": "shot-000093.jpg",
+      "thumbnail": "thumbs/shot-000093.jpg",
+      "color": "#686966",
+      "rgb": [
+        104,
+        105,
+        102
+      ]
+    },
+    {
+      "number": 94,
+      "start": 194.983333,
+      "end": 200.816667,
+      "screenshot_time": 197.9,
+      "image": "shot-000094.jpg",
+      "thumbnail": "thumbs/shot-000094.jpg",
+      "color": "#585854",
+      "rgb": [
+        88,
+        88,
+        84
+      ]
+    },
+    {
+      "number": 95,
+      "start": 200.816667,
+      "end": 203.566667,
+      "screenshot_time": 202.2,
+      "image": "shot-000095.jpg",
+      "thumbnail": "thumbs/shot-000095.jpg",
+      "color": "#61625D",
+      "rgb": [
+        97,
+        98,
+        93
+      ]
+    },
+    {
+      "number": 96,
+      "start": 203.566667,
+      "end": 205.866667,
+      "screenshot_time": 204.716667,
+      "image": "shot-000096.jpg",
+      "thumbnail": "thumbs/shot-000096.jpg",
+      "color": "#585854",
+      "rgb": [
+        88,
+        88,
+        84
+      ]
+    },
+    {
+      "number": 97,
+      "start": 205.866667,
+      "end": 207.366667,
+      "screenshot_time": 206.616667,
+      "image": "shot-000097.jpg",
+      "thumbnail": "thumbs/shot-000097.jpg",
+      "color": "#4F4F4B",
+      "rgb": [
+        79,
+        79,
+        75
+      ]
+    },
+    {
+      "number": 98,
+      "start": 207.366667,
+      "end": 212.066667,
+      "screenshot_time": 209.716667,
+      "image": "shot-000098.jpg",
+      "thumbnail": "thumbs/shot-000098.jpg",
+      "color": "#63635F",
+      "rgb": [
+        99,
+        99,
+        95
+      ]
+    },
+    {
+      "number": 99,
+      "start": 212.066667,
+      "end": 216.316667,
+      "screenshot_time": 214.2,
+      "image": "shot-000099.jpg",
+      "thumbnail": "thumbs/shot-000099.jpg",
+      "color": "#4F4F4B",
+      "rgb": [
+        79,
+        79,
+        75
+      ]
+    },
+    {
+      "number": 100,
+      "start": 216.316667,
+      "end": 216.566667,
+      "screenshot_time": 216.45,
+      "image": "shot-000100.jpg",
+      "thumbnail": "thumbs/shot-000100.jpg",
+      "color": "#121212",
+      "rgb": [
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "number": 101,
+      "start": 216.566667,
+      "end": 224.616667,
+      "screenshot_time": 220.6,
+      "image": "shot-000101.jpg",
+      "thumbnail": "thumbs/shot-000101.jpg",
+      "color": "#969793",
+      "rgb": [
+        150,
+        151,
+        147
+      ]
+    },
+    {
+      "number": 102,
+      "start": 224.616667,
+      "end": 228.2,
+      "screenshot_time": 226.4,
+      "image": "shot-000102.jpg",
+      "thumbnail": "thumbs/shot-000102.jpg",
+      "color": "#858580",
+      "rgb": [
+        133,
+        133,
+        128
+      ]
+    },
+    {
+      "number": 103,
+      "start": 228.2,
+      "end": 230.033333,
+      "screenshot_time": 229.116667,
+      "image": "shot-000103.jpg",
+      "thumbnail": "thumbs/shot-000103.jpg",
+      "color": "#5C5C58",
+      "rgb": [
+        92,
+        92,
+        88
+      ]
+    },
+    {
+      "number": 104,
+      "start": 230.033333,
+      "end": 233.316667,
+      "screenshot_time": 231.683333,
+      "image": "shot-000104.jpg",
+      "thumbnail": "thumbs/shot-000104.jpg",
+      "color": "#92928D",
+      "rgb": [
+        146,
+        146,
+        141
+      ]
+    },
+    {
+      "number": 105,
+      "start": 233.316667,
+      "end": 236.233333,
+      "screenshot_time": 234.766667,
+      "image": "shot-000105.jpg",
+      "thumbnail": "thumbs/shot-000105.jpg",
+      "color": "#969792",
+      "rgb": [
+        150,
+        151,
+        146
+      ]
+    },
+    {
+      "number": 106,
+      "start": 236.233333,
+      "end": 238.783333,
+      "screenshot_time": 237.5,
+      "image": "shot-000106.jpg",
+      "thumbnail": "thumbs/shot-000106.jpg",
+      "color": "#282824",
+      "rgb": [
+        40,
+        40,
+        36
+      ]
+    },
+    {
+      "number": 107,
+      "start": 238.783333,
+      "end": 249.4,
+      "screenshot_time": 244.083333,
+      "image": "shot-000107.jpg",
+      "thumbnail": "thumbs/shot-000107.jpg",
+      "color": "#2B2C2A",
+      "rgb": [
+        43,
+        44,
+        42
+      ]
+    },
+    {
+      "number": 108,
+      "start": 249.4,
+      "end": 259.9,
+      "screenshot_time": 254.65,
+      "image": "shot-000108.jpg",
+      "thumbnail": "thumbs/shot-000108.jpg",
+      "color": "#1F1F1D",
+      "rgb": [
+        31,
+        31,
+        29
+      ]
+    },
+    {
+      "number": 109,
+      "start": 259.9,
+      "end": 264.2,
+      "screenshot_time": 262.05,
+      "image": "shot-000109.jpg",
+      "thumbnail": "thumbs/shot-000109.jpg",
+      "color": "#393937",
+      "rgb": [
+        57,
+        57,
+        55
+      ]
+    },
+    {
+      "number": 110,
+      "start": 264.2,
+      "end": 265.233333,
+      "screenshot_time": 264.716667,
+      "image": "shot-000110.jpg",
+      "thumbnail": "thumbs/shot-000110.jpg",
+      "color": "#6A6A67",
+      "rgb": [
+        106,
+        106,
+        103
+      ]
+    },
+    {
+      "number": 111,
+      "start": 265.233333,
+      "end": 265.616667,
+      "screenshot_time": 265.416667,
+      "image": "shot-000111.jpg",
+      "thumbnail": "thumbs/shot-000111.jpg",
+      "color": "#6B6C68",
+      "rgb": [
+        107,
+        108,
+        104
+      ]
+    },
+    {
+      "number": 112,
+      "start": 265.616667,
+      "end": 265.816667,
+      "screenshot_time": 265.716667,
+      "image": "shot-000112.jpg",
+      "thumbnail": "thumbs/shot-000112.jpg",
+      "color": "#777873",
+      "rgb": [
+        119,
+        120,
+        115
+      ]
+    },
+    {
+      "number": 113,
+      "start": 265.816667,
+      "end": 266.033333,
+      "screenshot_time": 265.916667,
+      "image": "shot-000113.jpg",
+      "thumbnail": "thumbs/shot-000113.jpg",
+      "color": "#646560",
+      "rgb": [
+        100,
+        101,
+        96
+      ]
+    },
+    {
+      "number": 114,
+      "start": 266.033333,
+      "end": 266.366667,
+      "screenshot_time": 266.2,
+      "image": "shot-000114.jpg",
+      "thumbnail": "thumbs/shot-000114.jpg",
+      "color": "#5B5C57",
+      "rgb": [
+        91,
+        92,
+        87
+      ]
+    },
+    {
+      "number": 115,
+      "start": 266.366667,
+      "end": 268.7,
+      "screenshot_time": 267.533333,
+      "image": "shot-000115.jpg",
+      "thumbnail": "thumbs/shot-000115.jpg",
+      "color": "#1A1A19",
+      "rgb": [
+        26,
+        26,
+        25
+      ]
+    },
+    {
+      "number": 116,
+      "start": 268.7,
+      "end": 273.066667,
+      "screenshot_time": 270.883333,
+      "image": "shot-000116.jpg",
+      "thumbnail": "thumbs/shot-000116.jpg",
+      "color": "#83837F",
+      "rgb": [
+        131,
+        131,
+        127
+      ]
+    },
+    {
+      "number": 117,
+      "start": 273.066667,
+      "end": 275.733333,
+      "screenshot_time": 274.4,
+      "image": "shot-000117.jpg",
+      "thumbnail": "thumbs/shot-000117.jpg",
+      "color": "#3D3E39",
+      "rgb": [
+        61,
+        62,
+        57
+      ]
+    },
+    {
+      "number": 118,
+      "start": 275.733333,
+      "end": 284.2,
+      "screenshot_time": 279.966667,
+      "image": "shot-000118.jpg",
+      "thumbnail": "thumbs/shot-000118.jpg",
+      "color": "#343530",
+      "rgb": [
+        52,
+        53,
+        48
+      ]
+    },
+    {
+      "number": 119,
+      "start": 284.2,
+      "end": 285.816667,
+      "screenshot_time": 285.0,
+      "image": "shot-000119.jpg",
+      "thumbnail": "thumbs/shot-000119.jpg",
+      "color": "#575853",
+      "rgb": [
+        87,
+        88,
+        83
+      ]
+    },
+    {
+      "number": 120,
+      "start": 285.816667,
+      "end": 287.816667,
+      "screenshot_time": 286.816667,
+      "image": "shot-000120.jpg",
+      "thumbnail": "thumbs/shot-000120.jpg",
+      "color": "#6B6B68",
+      "rgb": [
+        107,
+        107,
+        104
+      ]
+    },
+    {
+      "number": 121,
+      "start": 287.816667,
+      "end": 290.316667,
+      "screenshot_time": 289.066667,
+      "image": "shot-000121.jpg",
+      "thumbnail": "thumbs/shot-000121.jpg",
+      "color": "#5D5D5B",
+      "rgb": [
+        93,
+        93,
+        91
+      ]
+    },
+    {
+      "number": 122,
+      "start": 290.316667,
+      "end": 292.116667,
+      "screenshot_time": 291.216667,
+      "image": "shot-000122.jpg",
+      "thumbnail": "thumbs/shot-000122.jpg",
+      "color": "#6C6D68",
+      "rgb": [
+        108,
+        109,
+        104
+      ]
+    },
+    {
+      "number": 123,
+      "start": 292.116667,
+      "end": 292.866667,
+      "screenshot_time": 292.5,
+      "image": "shot-000123.jpg",
+      "thumbnail": "thumbs/shot-000123.jpg",
+      "color": "#979793",
+      "rgb": [
+        151,
+        151,
+        147
+      ]
+    },
+    {
+      "number": 124,
+      "start": 292.866667,
+      "end": 293.733333,
+      "screenshot_time": 293.3,
+      "image": "shot-000124.jpg",
+      "thumbnail": "thumbs/shot-000124.jpg",
+      "color": "#41413D",
+      "rgb": [
+        65,
+        65,
+        61
+      ]
+    },
+    {
+      "number": 125,
+      "start": 293.733333,
+      "end": 293.9,
+      "screenshot_time": 293.816667,
+      "image": "shot-000125.jpg",
+      "thumbnail": "thumbs/shot-000125.jpg",
+      "color": "#696965",
+      "rgb": [
+        105,
+        105,
+        101
+      ]
+    },
+    {
+      "number": 126,
+      "start": 293.9,
+      "end": 295.316667,
+      "screenshot_time": 294.6,
+      "image": "shot-000126.jpg",
+      "thumbnail": "thumbs/shot-000126.jpg",
+      "color": "#8A8A86",
+      "rgb": [
+        138,
+        138,
+        134
+      ]
+    },
+    {
+      "number": 127,
+      "start": 295.316667,
+      "end": 295.7,
+      "screenshot_time": 295.5,
+      "image": "shot-000127.jpg",
+      "thumbnail": "thumbs/shot-000127.jpg",
+      "color": "#4F4F4A",
+      "rgb": [
+        79,
+        79,
+        74
+      ]
+    },
+    {
+      "number": 128,
+      "start": 295.7,
+      "end": 297.616667,
+      "screenshot_time": 296.666667,
+      "image": "shot-000128.jpg",
+      "thumbnail": "thumbs/shot-000128.jpg",
+      "color": "#747472",
+      "rgb": [
+        116,
+        116,
+        114
+      ]
+    },
+    {
+      "number": 129,
+      "start": 297.616667,
+      "end": 299.366667,
+      "screenshot_time": 298.5,
+      "image": "shot-000129.jpg",
+      "thumbnail": "thumbs/shot-000129.jpg",
+      "color": "#AEAEAA",
+      "rgb": [
+        174,
+        174,
+        170
+      ]
+    },
+    {
+      "number": 130,
+      "start": 299.366667,
+      "end": 303.733333,
+      "screenshot_time": 301.55,
+      "image": "shot-000130.jpg",
+      "thumbnail": "thumbs/shot-000130.jpg",
+      "color": "#8B8C88",
+      "rgb": [
+        139,
+        140,
+        136
+      ]
+    },
+    {
+      "number": 131,
+      "start": 303.733333,
+      "end": 307.016667,
+      "screenshot_time": 305.366667,
+      "image": "shot-000131.jpg",
+      "thumbnail": "thumbs/shot-000131.jpg",
+      "color": "#AEAEAA",
+      "rgb": [
+        174,
+        174,
+        170
+      ]
+    },
+    {
+      "number": 132,
+      "start": 307.016667,
+      "end": 308.316667,
+      "screenshot_time": 307.666667,
+      "image": "shot-000132.jpg",
+      "thumbnail": "thumbs/shot-000132.jpg",
+      "color": "#8B8C87",
+      "rgb": [
+        139,
+        140,
+        135
+      ]
+    },
+    {
+      "number": 133,
+      "start": 308.316667,
+      "end": 310.483333,
+      "screenshot_time": 309.4,
+      "image": "shot-000133.jpg",
+      "thumbnail": "thumbs/shot-000133.jpg",
+      "color": "#444443",
+      "rgb": [
+        68,
+        68,
+        67
+      ]
+    },
+    {
+      "number": 134,
+      "start": 310.483333,
+      "end": 312.683333,
+      "screenshot_time": 311.583333,
+      "image": "shot-000134.jpg",
+      "thumbnail": "thumbs/shot-000134.jpg",
+      "color": "#A1A19D",
+      "rgb": [
+        161,
+        161,
+        157
+      ]
+    },
+    {
+      "number": 135,
+      "start": 312.683333,
+      "end": 314.85,
+      "screenshot_time": 313.766667,
+      "image": "shot-000135.jpg",
+      "thumbnail": "thumbs/shot-000135.jpg",
+      "color": "#3C3C39",
+      "rgb": [
+        60,
+        60,
+        57
+      ]
+    },
+    {
+      "number": 136,
+      "start": 314.85,
+      "end": 316.516667,
+      "screenshot_time": 315.683333,
+      "image": "shot-000136.jpg",
+      "thumbnail": "thumbs/shot-000136.jpg",
+      "color": "#6F6F6B",
+      "rgb": [
+        111,
+        111,
+        107
+      ]
+    },
+    {
+      "number": 137,
+      "start": 316.516667,
+      "end": 316.766667,
+      "screenshot_time": 316.65,
+      "image": "shot-000137.jpg",
+      "thumbnail": "thumbs/shot-000137.jpg",
+      "color": "#727271",
+      "rgb": [
+        114,
+        114,
+        113
+      ]
+    },
+    {
+      "number": 138,
+      "start": 316.766667,
+      "end": 318.433333,
+      "screenshot_time": 317.6,
+      "image": "shot-000138.jpg",
+      "thumbnail": "thumbs/shot-000138.jpg",
+      "color": "#7A7A7A",
+      "rgb": [
+        122,
+        122,
+        122
+      ]
+    },
+    {
+      "number": 139,
+      "start": 318.433333,
+      "end": 320.35,
+      "screenshot_time": 319.4,
+      "image": "shot-000139.jpg",
+      "thumbnail": "thumbs/shot-000139.jpg",
+      "color": "#565652",
+      "rgb": [
+        86,
+        86,
+        82
+      ]
+    },
+    {
+      "number": 140,
+      "start": 320.35,
+      "end": 321.4,
+      "screenshot_time": 320.866667,
+      "image": "shot-000140.jpg",
+      "thumbnail": "thumbs/shot-000140.jpg",
+      "color": "#4D4E49",
+      "rgb": [
+        77,
+        78,
+        73
+      ]
+    },
+    {
+      "number": 141,
+      "start": 321.4,
+      "end": 323.316667,
+      "screenshot_time": 322.35,
+      "image": "shot-000141.jpg",
+      "thumbnail": "thumbs/shot-000141.jpg",
+      "color": "#272726",
+      "rgb": [
+        39,
+        39,
+        38
+      ]
+    },
+    {
+      "number": 142,
+      "start": 323.316667,
+      "end": 325.4,
+      "screenshot_time": 324.35,
+      "image": "shot-000142.jpg",
+      "thumbnail": "thumbs/shot-000142.jpg",
+      "color": "#686864",
+      "rgb": [
+        104,
+        104,
+        100
+      ]
+    },
+    {
+      "number": 143,
+      "start": 325.4,
+      "end": 325.85,
+      "screenshot_time": 325.616667,
+      "image": "shot-000143.jpg",
+      "thumbnail": "thumbs/shot-000143.jpg",
+      "color": "#80817C",
+      "rgb": [
+        128,
+        129,
+        124
+      ]
+    },
+    {
+      "number": 144,
+      "start": 325.85,
+      "end": 326.983333,
+      "screenshot_time": 326.416667,
+      "image": "shot-000144.jpg",
+      "thumbnail": "thumbs/shot-000144.jpg",
+      "color": "#696A66",
+      "rgb": [
+        105,
+        106,
+        102
+      ]
+    },
+    {
+      "number": 145,
+      "start": 326.983333,
+      "end": 327.266667,
+      "screenshot_time": 327.116667,
+      "image": "shot-000145.jpg",
+      "thumbnail": "thumbs/shot-000145.jpg",
+      "color": "#73736F",
+      "rgb": [
+        115,
+        115,
+        111
+      ]
+    },
+    {
+      "number": 146,
+      "start": 327.266667,
+      "end": 333.483333,
+      "screenshot_time": 330.366667,
+      "image": "shot-000146.jpg",
+      "thumbnail": "thumbs/shot-000146.jpg",
+      "color": "#6B6B68",
+      "rgb": [
+        107,
+        107,
+        104
+      ]
+    },
+    {
+      "number": 147,
+      "start": 333.483333,
+      "end": 335.85,
+      "screenshot_time": 334.666667,
+      "image": "shot-000147.jpg",
+      "thumbnail": "thumbs/shot-000147.jpg",
+      "color": "#555652",
+      "rgb": [
+        85,
+        86,
+        82
+      ]
+    },
+    {
+      "number": 148,
+      "start": 335.85,
+      "end": 338.266667,
+      "screenshot_time": 337.05,
+      "image": "shot-000148.jpg",
+      "thumbnail": "thumbs/shot-000148.jpg",
+      "color": "#4F504B",
+      "rgb": [
+        79,
+        80,
+        75
+      ]
+    },
+    {
+      "number": 149,
+      "start": 338.266667,
+      "end": 345.266667,
+      "screenshot_time": 341.766667,
+      "image": "shot-000149.jpg",
+      "thumbnail": "thumbs/shot-000149.jpg",
+      "color": "#6E6F6A",
+      "rgb": [
+        110,
+        111,
+        106
+      ]
+    },
+    {
+      "number": 150,
+      "start": 345.266667,
+      "end": 347.566667,
+      "screenshot_time": 346.416667,
+      "image": "shot-000150.jpg",
+      "thumbnail": "thumbs/shot-000150.jpg",
+      "color": "#5F5F5B",
+      "rgb": [
+        95,
+        95,
+        91
+      ]
+    },
+    {
+      "number": 151,
+      "start": 347.566667,
+      "end": 348.1,
+      "screenshot_time": 347.833333,
+      "image": "shot-000151.jpg",
+      "thumbnail": "thumbs/shot-000151.jpg",
+      "color": "#B4B5B0",
+      "rgb": [
+        180,
+        181,
+        176
+      ]
+    },
+    {
+      "number": 152,
+      "start": 348.1,
+      "end": 348.65,
+      "screenshot_time": 348.366667,
+      "image": "shot-000152.jpg",
+      "thumbnail": "thumbs/shot-000152.jpg",
+      "color": "#CFCFCB",
+      "rgb": [
+        207,
+        207,
+        203
+      ]
+    },
+    {
+      "number": 153,
+      "start": 348.65,
+      "end": 348.816667,
+      "screenshot_time": 348.733333,
+      "image": "shot-000153.jpg",
+      "thumbnail": "thumbs/shot-000153.jpg",
+      "color": "#A1A19D",
+      "rgb": [
+        161,
+        161,
+        157
+      ]
+    },
+    {
+      "number": 154,
+      "start": 348.816667,
+      "end": 349.4,
+      "screenshot_time": 349.1,
+      "image": "shot-000154.jpg",
+      "thumbnail": "thumbs/shot-000154.jpg",
+      "color": "#CECECA",
+      "rgb": [
+        206,
+        206,
+        202
+      ]
+    },
+    {
+      "number": 155,
+      "start": 349.4,
+      "end": 350.733333,
+      "screenshot_time": 350.066667,
+      "image": "shot-000155.jpg",
+      "thumbnail": "thumbs/shot-000155.jpg",
+      "color": "#70706C",
+      "rgb": [
+        112,
+        112,
+        108
+      ]
+    },
+    {
+      "number": 156,
+      "start": 350.733333,
+      "end": 352.266667,
+      "screenshot_time": 351.5,
+      "image": "shot-000156.jpg",
+      "thumbnail": "thumbs/shot-000156.jpg",
+      "color": "#82827E",
+      "rgb": [
+        130,
+        130,
+        126
+      ]
+    },
+    {
+      "number": 157,
+      "start": 352.266667,
+      "end": 358.1,
+      "screenshot_time": 355.183333,
+      "image": "shot-000157.jpg",
+      "thumbnail": "thumbs/shot-000157.jpg",
+      "color": "#B3B3B0",
+      "rgb": [
+        179,
+        179,
+        176
+      ]
+    },
+    {
+      "number": 158,
+      "start": 358.1,
+      "end": 379.466667,
+      "screenshot_time": 368.783333,
+      "image": "shot-000158.jpg",
+      "thumbnail": "thumbs/shot-000158.jpg",
+      "color": "#171717",
+      "rgb": [
+        23,
+        23,
+        23
+      ]
+    }
+  ]
+}

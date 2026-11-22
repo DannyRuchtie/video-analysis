@@ -2,12 +2,14 @@
 
 Turn a video into a color timeline and a gallery of shots. Paste a YouTube link or upload a file, then click any color segment or thumbnail to open its screenshot. The app runs in your browser and processes videos on your computer.
 
-![Video analysis showing a duration-weighted color timeline and a gallery of shots](docs/screenshots/overview.png)
+The app opens with *Paperman*, including a color timeline and 158 analyzed shots. The included analysis is ready to browse on a fresh install. [Source video on YouTube](https://www.youtube.com/watch?v=XrqSF2OOz_M)
+
+![Paperman’s color timeline and shot gallery in Video analysis](docs/screenshots/paperman-overview.png)
 
 <details>
 <summary>View the shot lightbox</summary>
 
-![A single shot in the lightbox with its timestamp, average color, and download controls](docs/screenshots/lightbox.png)
+![A Paperman shot in the lightbox with its timestamp, average color, and download controls](docs/screenshots/paperman-lightbox.png)
 
 </details>
 
@@ -31,7 +33,7 @@ The server listens on your computer's loopback address. It saves results under `
 
 Install [yt-dlp](https://github.com/yt-dlp/yt-dlp/wiki/Installation) with its EJS scripts and either Deno or Node.js 22 or newer. The app finds `yt-dlp` on your PATH. On macOS, `brew install yt-dlp` installs the downloader and its Deno dependency. With pipx, install the bundled scripts using `pipx install 'yt-dlp[default]'` and install the JavaScript runtime separately. [YouTube setup in yt-dlp](https://github.com/yt-dlp/yt-dlp/wiki/EJS)
 
-Use YouTube links for videos you have permission to download. To load the optional *Paperman* example, start the server with `python3 server.py --paperman`. The app caches that analysis on your computer.
+Use YouTube links for videos you have permission to download. The included *Paperman* analysis opens before you install the YouTube tools.
 
 ## Command-line scripts
 
@@ -46,5 +48,3 @@ python3 color_timeline.py "/path/to/video.mp4" -o palette
 | `color_timeline.py` | A duration-weighted `color-strip.png` and a `colors.json` file with shot times and RGB and hex values |
 
 Choose a new output directory for each run. Use `--threshold` to tune cut detection and `--min-shot` to set the minimum gap between cuts. The detector checks surrounding frames to reduce false splits from fast movement and brief obstructions. Gradual transitions can still be missed. Each color averages the full frame across the shot and weights frames by their time on screen.
-
-The README shows *After Hours*, a nine-shot example assembled from generated stills.
