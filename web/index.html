@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Video analysis</title>
+  <link rel="stylesheet" href="/style.css">
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <main>
+    <section class="import" aria-labelledby="page-title">
+      <h1 id="page-title">Video analysis</h1>
+      <div class="tabs" role="tablist" aria-label="Video source">
+        <button type="button" role="tab" id="tab-youtube" aria-controls="panel-youtube" aria-selected="true">YouTube</button>
+        <button type="button" role="tab" id="tab-upload" aria-controls="panel-upload" aria-selected="false" tabindex="-1">Upload</button>
+      </div>
+      <form id="import-form">
+        <div class="import-row">
+          <div class="source-fields">
+            <div id="panel-youtube" role="tabpanel" aria-labelledby="tab-youtube">
+              <input class="url-input" type="url" id="youtube-url" aria-label="YouTube video URL" placeholder="Paste a YouTube link" autocomplete="off" spellcheck="false">
+            </div>
+            <div id="panel-upload" role="tabpanel" aria-labelledby="tab-upload" hidden>
+              <label class="drop" id="drop-zone">
+                <input id="video-file" type="file" accept="video/*,.mkv,.avi,.mxf,.mts,.m2ts,.flv,.wmv,.3gp,.ogv" aria-labelledby="file-name">
+                <span id="file-name">Choose or drop a video file</span>
+              </label>
+            </div>
+          </div>
+          <button class="submit" id="analyze" type="submit">Analyze</button>
+        </div>
+        <label class="sensitivity" title="Higher sensitivity detects smaller changes between frames">
+          Cut sensitivity
+          <select id="sensitivity">
+            <option value="15">Low</option>
+            <option value="10" selected>Medium</option>
+            <option value="6">High</option>
+          </select>
+        </label>
+        <div class="import-limits" id="import-limits" hidden>
+          <p id="quota-hint"></p>
+          <details>
+            <summary>Enter access code</summary>
+            <input type="password" id="access-code" class="url-input" aria-label="Access code" maxlength="128" autocomplete="off">
+          </details>
+        </div>
+        <p id="progress" class="feedback" role="status" hidden></p>
+        <p id="error" class="feedback" role="alert" hidden></p>
+      </form>
+    </section>
+
+    <p id="loading" role="status">Loading analysis…</p>
+    <section id="analysis" aria-labelledby="video-title" hidden>
+      <header class="result-heading">
+        <div>
+          <h2 id="video-title"></h2>
+          <p class="video-meta" id="video-meta"></p>
+        </div>
+        <div class="result-actions">
+          <button class="text-action" id="show-default" type="button" hidden>View Paperman</button>
+          <a class="text-action" id="watch-video" hidden>Watch on YouTube</a>
+        </div>
+      </header>
+
+      <section class="timeline" aria-labelledby="timeline-title">
+        <header class="section-heading">
+          <h3 id="timeline-title">Color timeline</h3>
+          <a class="text-action" id="download-colors" download>Download PNG</a>
+        </header>
+        <div class="strip-area">
+          <div class="strip" id="strip" role="group" aria-label="Average color per shot. Use the arrow keys to move between shots."></div>
+          <div class="strip-tooltip" id="strip-tooltip" aria-hidden="true" hidden></div>
+        </div>
+        <div id="ticks" class="ticks" aria-hidden="true"></div>
+      </section>
+
+      <section class="shots" aria-labelledby="shots-title">
+        <h3 id="shots-title">Shots</h3>
+        <div class="gallery" id="gallery"></div>
+      </section>
+    </section>
+  </main>
+
+  <dialog id="lightbox" aria-labelledby="lightbox-title">
+    <div class="lightbox-inner">
+      <header class="lightbox-row">
+        <div>
+          <h2 id="lightbox-title">Shot</h2>
+          <p id="lightbox-frame-time"></p>
+        </div>
+        <button type="button" id="close-lightbox" class="text-action" autofocus>Close</button>
+      </header>
+      <img id="lightbox-image" alt="">
+      <div class="lightbox-row lightbox-footer">
+        <div class="stepper">
+          <button type="button" id="previous" class="text-action" aria-label="Previous shot">Previous</button>
+          <button type="button" id="next" class="text-action" aria-label="Next shot">Next</button>
+        </div>
+        <span id="lightbox-color" class="shot-color"></span>
+        <a class="text-action" id="download-frame" download>Download JPG</a>
+      </div>
+    </div>
+  </dialog>
+</body>
+</html>

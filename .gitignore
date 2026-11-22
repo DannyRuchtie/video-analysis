@@ -1,0 +1,9 @@
+.shotline/
+.DS_Store
+.env
+.env.*
+.venv/
+__pycache__/
+*.py[cod]
+scene-screenshots/
+color-timeline/
